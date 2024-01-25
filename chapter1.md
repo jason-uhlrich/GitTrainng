@@ -1,1 +1,3 @@
-# Chapter 1 - Red rules
+<<<<<<< HEAD
+# Chapter 1 - The purple chapter
+>>>>>>> main
